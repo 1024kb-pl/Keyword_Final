@@ -11,10 +11,6 @@ public final class User {
         this.email = email;
     }
 
-    public void setLogin(String login) {
-        this.login = login;
-    }
-
     public String getLogin() {
         return login;
     }
